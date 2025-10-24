@@ -1,0 +1,29 @@
+{
+  "google_rating": "3.3/5",
+  "total_reviews": "20+ (Tripadvisor)",
+  "restaurant_guru_rating": "3.9/5",
+  "restaurant_guru_reviews": "1066",
+  "reviews": [
+    {
+      "author": "Google User",
+      "rating": 4,
+      "text": "Lovely atmosphere with a beautiful lake view. The staff is friendly and the service is fast. Fair prices and great location directly by Schäfersee.",
+      "date": "2024",
+      "source": "Google/RestaurantGuru"
+    },
+    {
+      "author": "TripAdvisor Visitor",
+      "rating": 4,
+      "text": "Most guests recommend trying tasty hamburgers and good wiener schnitzels. The homemade cakes are excellent!",
+      "date": "2024",
+      "source": "TripAdvisor"
+    },
+    {
+      "author": "Restaurant Guru",
+      "rating": 5,
+      "text": "Great place for breakfast by the lake. The vegan options are delicious and the homemade cakes with fruity jams are a must-try. Wheelchair accessible and pet-friendly!",
+      "date": "2024",
+      "source": "Restaurant Guru"
+    }
+  ]
+}

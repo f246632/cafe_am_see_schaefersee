@@ -1,0 +1,90 @@
+{
+  "categories": [
+    {
+      "name": "Frühstück (Breakfast)",
+      "description": "Genießen Sie unser reichhaltiges Frühstück am See",
+      "items": [
+        {
+          "name": "Veganes Frühstück für Zwei",
+          "description": "Hummus, Avocado-Creme, Kichererbsensalat, Oliven, Auberginen-Sugo, Zitronen-Tahini und Brot",
+          "price": "25,00 €",
+          "dietary": ["vegan"]
+        },
+        {
+          "name": "Klassisches Frühstück",
+          "description": "Hausgemachte Marmelade, frische Brötchen, Aufschnitt und Käse",
+          "price": "8,50 €"
+        }
+      ]
+    },
+    {
+      "name": "Hauptgerichte (Main Courses)",
+      "description": "Traditionelle deutsche Küche",
+      "items": [
+        {
+          "name": "Wiener Schnitzel",
+          "description": "Klassisches Schnitzel mit Pommes frites und Salat",
+          "price": "12,90 €",
+          "popular": true
+        },
+        {
+          "name": "Hamburger",
+          "description": "Saftiger Burger mit hausgemachter Sauce",
+          "price": "9,50 €",
+          "popular": true
+        },
+        {
+          "name": "Vegetarische Optionen",
+          "description": "Verschiedene vegetarische und vegane Gerichte verfügbar",
+          "price": "ab 8,00 €",
+          "dietary": ["vegetarian", "vegan"]
+        }
+      ]
+    },
+    {
+      "name": "Kuchen & Desserts",
+      "description": "Hausgemachte Kuchen und süße Köstlichkeiten",
+      "items": [
+        {
+          "name": "Käsekuchen",
+          "description": "Cremiger hausgemachter Käsekuchen",
+          "price": "4,50 €",
+          "popular": true
+        },
+        {
+          "name": "Saisonale Kuchen",
+          "description": "Wechselnde Auswahl an frisch gebackenen Kuchen mit fruchtigen Marmeladen",
+          "price": "ab 3,90 €"
+        }
+      ]
+    },
+    {
+      "name": "Getränke (Beverages)",
+      "description": "Große Auswahl an Tee und gutem Kaffee",
+      "items": [
+        {
+          "name": "Kaffee Spezialitäten",
+          "description": "Espresso, Cappuccino, Latte Macchiato",
+          "price": "ab 2,50 €"
+        },
+        {
+          "name": "Teesorten",
+          "description": "Große Auswahl an verschiedenen Teesorten",
+          "price": "ab 2,80 €"
+        }
+      ]
+    }
+  ],
+  "features": [
+    "Große Auswahl an Teesorten",
+    "Guter Kaffee",
+    "Frühstück",
+    "Mittagessen",
+    "Abendessen",
+    "Allein speisen",
+    "Vegane Optionen",
+    "Hausgemachte Kuchen"
+  ],
+  "average_price": "8,50 €",
+  "total_dishes": 36
+}
